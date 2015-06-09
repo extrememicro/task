@@ -133,7 +133,12 @@
       <dependency>
         <groupId>org.exoplatform.commons</groupId>
         <artifactId>commons-api</artifactId>
-        <version>${platform.version}</version>
+        <version>4.3.x-jpa-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+        <groupId>org.exoplatform.commons</groupId>
+        <artifactId>commons-component-common</artifactId>
+        <version>4.3.x-jpa-SNAPSHOT</version>
       </dependency>
 
       <!-- Junit for testing -->
